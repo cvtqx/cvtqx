@@ -9,3 +9,14 @@
   <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logoColor=white"" alt="Portfolio Badge"/>
   </a>
 </div>
+                                                                                                                     <h1 align="center"> Hello! </h1>                                                                                                                    
+                                                                                                                     
+
+
+### :woman_technologist: About Me :
+                                                                                                                                       
+- :computer: I am a full-stack software engineer with background as a teacher and student recruitment specialist.
+
+- :bulb: I am currently learning Next.js and solving CodeWars challenges.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-message-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/olga-yudkin/)                                                                                                                                       
