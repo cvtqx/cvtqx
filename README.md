@@ -18,5 +18,7 @@
 - :computer: I am a full-stack software engineer with background as a teacher and student recruitment specialist.
 
 - :bulb: I am currently learning Next.js and solving CodeWars challenges.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-message-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/olga-yudkin/)                                                                                                                                       
+                                                                                                                                       
+- :sparkles: In my free time I love to bake sourdough bread, do yoga and spend time with my family.
+                                                                                                                                       
+- :envelope:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-message-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/olga-yudkin/)                                                                                                                                       
