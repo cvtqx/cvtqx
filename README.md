@@ -19,6 +19,6 @@
 
 - :bulb: I am currently learning Next.js and solving CodeWars challenges.
                                                                                                                                        
-- :sparkles: In my free time I love to bake sourdough bread, do yoga and spend time with my family.
+- :sparkles: I am a mom, a bread baker and an avid yoga practitioner.
                                                                                                                                        
 - :envelope:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-message-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/olga-yudkin/)                                                                                                                                       
