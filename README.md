@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="300"/>
+  <img src="images/banner.png" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/olga-yudkin/">
