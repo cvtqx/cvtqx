@@ -18,7 +18,7 @@
                                                                                                                                        
 - :computer: I am a full-stack software engineer with background as a teacher and student recruitment specialist.
 
-- :bulb: I am currently learning Next.js and volunteering on an open-source project.
+- :bulb: I am currently volunteering on an open-source project -  One Community Global -  https://github.com/OneCommunityGlobal. 
                                                                                                                                        
 - :sparkles: I am a mom, a bread baker and an avid yoga practitioner.
                                                                                                                                        
