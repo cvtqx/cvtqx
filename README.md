@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="images/banner.png" />
+  <img src="images/LIbanner.jpg" />
 </div>
 <br />
 <div id="badges" align="center">
