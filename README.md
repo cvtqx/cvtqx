@@ -20,10 +20,7 @@
 
 - :bulb: In the past year I've been working on two projects:
   - One Community Global -  https://github.com/OneCommunityGlobal, where I worked as React developer.
-  - Chingu - https://github.com/chingu-voyages, where I work as a front end developer to build projects with a team following Agile/Scrum methodology
-                                                                                                                                       
-- :sparkles: I am a mom, a bread baker and an avid yoga practitioner.
-                                                                                                                                       
+  - Chingu - https://github.com/chingu-voyages, where I work as a front end developer to build projects with a team following Agile/Scrum methodology                                                                                                                                                                                                                                                                      
 - :envelope: How to reach me: send me a message on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/olga-yudkin/)                                                                                                                                       
                                                                                                                                        
 ### My tech skills:
