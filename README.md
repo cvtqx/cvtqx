@@ -16,11 +16,13 @@
 
 ### :woman_technologist: About Me :
                                                                                                                                        
-- :computer: I am a front-end software engineer with background as a teacher and student recruitment specialist.
+- :computer: I’m a Front-End Software Engineer with a passion for building intuitive and high-performing user interfaces. Currently, my focus is on Next.js, TypeScript, React, Redux, Tailwind CSS, and related libraries to create seamless and dynamic web experiences.
 
-- :bulb: In the past year I've been working on two projects:
-  - One Community Global -  https://github.com/OneCommunityGlobal, where I worked as React developer.
-  - Chingu - https://github.com/chingu-voyages, where I work as a front end developer to build projects with a team following Agile/Scrum methodology                                                                                                                                                                                                                                                                      
+- 👷‍♀️ I gained a solid foundation in full-stack development through a rigorous coding bootcamp, where I worked with technologies like React, JavaScript, Express, PostgreSQL, and Bootstrap. This hands-on experience equipped me with the skills to tackle both front-end and back-end challenges.
+
+- 💼 In the past year I've been contributing to two projects:
+  - One Community Global -  https://github.com/OneCommunityGlobal, as a REACT developer.
+  - Chingu - https://github.com/chingu-voyages,  as a front end developer utilizing REACT, NEXT.JS, TYPESCRIPT and related libraries to build projects with a team following Agile/Scrum methodology                                                                                                                                                                                                                                                                      
 - :envelope: How to reach me: send me a message on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/olga-yudkin/)                                                                                                                                       
                                                                                                                                        
 <!--- ### My tech skills:
